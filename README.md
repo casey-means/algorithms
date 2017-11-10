@@ -1,2 +1,4 @@
 # algorithms
-Repo for an my own algorithm encyclopedia
+Repo for my own algorithm encyclopedia.
+
+To Do: fuzzy search, binary trees
